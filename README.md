@@ -1,6 +1,6 @@
-# Análisis de Delitos en la Ciudad de Buenos Aires - 2024
+# Análisis de delitos en la Ciudad de Buenos Aires - 2024
 
-## Descripción General
+## Descripción general
 
 Este repositorio contiene un proyecto de Business Intelligence desarrollado en Power BI que analiza los datos de delitos ocurridos en la Ciudad Autónoma de Buenos Aires durante el año 2024. El objetivo es transformar datos crudos en un informe interactivo que permita identificar patrones geográficos, temporales y de tipología delictiva.
 
@@ -8,7 +8,7 @@ Este repositorio contiene un proyecto de Business Intelligence desarrollado en P
 
 ---
 
-## Vista Previa del Informe
+## Vista previa del informe
 
 ![Informe ejecutivo](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_informeEjecutivo.png)
 ![Análisis Geográfico](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_analisisGeografico.png)
@@ -17,7 +17,7 @@ Este repositorio contiene un proyecto de Business Intelligence desarrollado en P
 
 ---
 
-## Proceso del Proyecto
+## Proceso del proyecto
 
 1.  **ETL (Extracción, Transformación y Carga):** Se utilizó Power Query para conectar con la fuente de datos (`delitos_2024.csv`), realizar una limpieza exhaustiva (manejo de nulos, estandarización de tipos de datos) y normalizar el modelo.
 2.  **Modelado de Datos:** Se implementó un **esquema de estrella** para optimizar el rendimiento y la claridad del modelo, creando tablas de dimensiones para Geografía, Tiempo, Tipo de Delito, etc., y una tabla central de Hechos.
@@ -27,7 +27,7 @@ Este repositorio contiene un proyecto de Business Intelligence desarrollado en P
 
 ---
 
-## Herramientas Utilizadas
+## Herramientas utilizadas
 
 * **Power BI Desktop:** Para todo el proceso de ETL, modelado, análisis y visualización.
 * **Power Query:** Para la transformación y limpieza de datos.
@@ -36,7 +36,7 @@ Este repositorio contiene un proyecto de Business Intelligence desarrollado en P
 
 ---
 
-## Cómo Utilizar este Repositorio
+## Cómo utilizar este repositorio
 
 1.  **Clona o descarga** el repositorio.
 2.  Asegúrate de tener **Power BI Desktop** instalado.
