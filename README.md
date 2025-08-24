@@ -8,9 +8,12 @@ Este repositorio contiene un proyecto de Business Intelligence desarrollado en P
 
 ---
 
-## Vista Previa del Dashboard
+## Vista Previa del Informe
 
-![Dashboard de Seguridad CABA](dashboard.png)
+![Informe ejecutivo](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_informeEjecutivo.png)
+![Análisis Geográfico](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_analisisGeografico.png)
+![Análisis Temporal](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_analisisTemporal.png)
+![Análisis Detallado y Recomendaciones](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_analisisDetallado_recomendaciones.png)
 
 ---
 
@@ -37,5 +40,5 @@ Este repositorio contiene un proyecto de Business Intelligence desarrollado en P
 
 1.  **Clona o descarga** el repositorio.
 2.  Asegúrate de tener **Power BI Desktop** instalado.
-3.  Abre el archivo `SeguridadCABA.pbix` para explorar el modelo de datos, las transformaciones en Power Query y el informe interactivo completo.
+3.  Abre el archivo `Analisis_Delitos_CABA_2024.pbix` para explorar el modelo de datos, las transformaciones en Power Query y el informe interactivo completo.
 4.  El dataset original `delitos_2024.csv` está incluido para referencia.
