@@ -30,7 +30,7 @@ Este repositorio contiene un proyecto de Business Intelligence desarrollado en P
 ## Herramientas Utilizadas
 
 * **Power BI Desktop:** Para todo el proceso de ETL, modelado, análisis y visualización.
-* **Power Query (Lenguaje M):** Para la transformación y limpieza de datos.
+* **Power Query:** Para la transformación y limpieza de datos.
 * **DAX (Data Analysis Expressions):** Para la creación de medidas y KPIs.
 * **GitHub:** Para el control de versiones y la presentación del proyecto.
 
