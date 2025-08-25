@@ -42,3 +42,4 @@ Este repositorio contiene un proyecto de Business Intelligence desarrollado en P
 2.  Asegúrate de tener **Power BI Desktop** instalado.
 3.  Abre el archivo `Analisis_Delitos_CABA_2024.pbix` para explorar el modelo de datos, las transformaciones en Power Query y el informe interactivo completo.
 4.  El dataset original `delitos_2024.csv` está incluido para referencia.
+5.  El archivo `barrios_poligonos_BA.geojson` también está incluido para referencia, ya que delimita los polígonos de los barrios.
