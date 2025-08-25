@@ -13,7 +13,7 @@ Este repositorio contiene un proyecto de Business Intelligence desarrollado en P
 ![Informe ejecutivo](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_informeEjecutivo.png)
 ![Análisis Geográfico](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_analisisGeografico.png)
 ![Análisis Temporal](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_analisisTemporal.png)
-![Análisis Detallado y Recomendaciones](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_analisisDetallado_recomendaciones.png)
+![Análisis Detallado y Recomendaciones](https://github.com/micky-albornoz/PowerBI-Seguridad-CABA-2024/blob/main/images/powerBi_delitosCABA2024_analisisDetallado_modalidades.png)
 
 ---
 
