@@ -21,7 +21,7 @@ Este repositorio contiene un proyecto de Business Intelligence desarrollado en P
 
 1.  **ETL (Extracción, Transformación y Carga):** Se utilizó Power Query para conectar con la fuente de datos (`delitos_2024.csv`), realizar una limpieza exhaustiva (manejo de nulos, estandarización de tipos de datos) y normalizar el modelo.
 2.  **Modelado de datos:** Se implementó un **esquema de estrella** para optimizar el rendimiento y la claridad del modelo, creando tablas de dimensiones para Geografía, Tiempo, Tipo de Delito, etc., y una tabla central de Hechos.
-3.  **Análisis con DAX:** Se crearon medidas personalizadas utilizando DAX (Data Analysis Expressions) para calcular KPIs clave como el total de delitos, el porcentaje de incidentes con uso de arma y el promedio diario de delitos.
+3.  **Análisis con DAX:** Se crearon medidas personalizadas utilizando DAX (Data Analysis Expressions) para calcular KPIs clave como el total de delitos, el porcentaje de incidentes con uso de arma y el cantidad de delitos con uso de moto.
 4.  **Visualización de datos:** El informe incluye una variedad de objetos visuales interactivos, como un mapa geoespacial para identificar "puntos calientes", gráficos de tendencia para el análisis temporal y segmentadores para un filtrado dinámico de la información.
 5.  **Storytelling:** El dashboard está estructurado para contar una historia, guiando al usuario a través de los principales insights sobre la distribución geográfica, los patrones horarios y las modalidades delictivas más comunes.
 
