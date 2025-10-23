@@ -1,4 +1,4 @@
-# Análisis de delitos en la Ciudad de Buenos Aires - 2024
+# Análisis de seguridad en la Ciudad de Buenos Aires - 2024
 
 ## Descripción general
 
